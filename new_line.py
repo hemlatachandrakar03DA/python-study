@@ -1,0 +1,1 @@
+print("hello world \n this is code and debug")
