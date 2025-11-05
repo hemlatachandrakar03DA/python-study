@@ -1,0 +1,1 @@
+print("my name is \t\t\t Hemlata Chandrakar\n my age is \t\t 24 \n i am \t female")
